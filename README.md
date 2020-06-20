@@ -5,7 +5,7 @@ frpc.ini
 [common]
 server_addr = 0.0.0.0
 server_port = 2333
-privilege_token = pentest999
+token = uknowsec
 tls_enable = true
 [http_proxy]
 type = tcp
