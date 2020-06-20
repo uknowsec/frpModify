@@ -14,7 +14,7 @@ plugin = socks5
 ```
 
 
-frps/ini
+frps.ini
 ```
 [common]
 bind_port = 2333
