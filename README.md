@@ -1,5 +1,8 @@
 # frpModify
 
+详情：
+[FRP改造计划](https://uknowsec.cn/posts/notes/FRP%E6%94%B9%E9%80%A0%E8%AE%A1%E5%88%92.html)
+
 frpc.ini
 ```
 [common]
