@@ -1,5 +1,6 @@
 # frpModify
 
+## 指定参数
 ```
 >frpc.exe -t 1.1.1.1 -p 2333
 Modify by Uknow
