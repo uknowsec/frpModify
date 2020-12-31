@@ -5,7 +5,7 @@
 详情：
 [FRP改造计划续](https://uknowsec.cn/posts/notes/FRP%E6%94%B9%E9%80%A0%E8%AE%A1%E5%88%92%E7%BB%AD.html)
 
-注：不管frpc用websocket还是wss，cdn配置都为回源http。
+注：不管frpc用websocket还是wss，某云配置都为回源http。
 
 frps
 ```
