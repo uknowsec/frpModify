@@ -1,6 +1,6 @@
 # frpModify
 
-## 域前置与自删除
+### 域前置与自删除
 
 详情：
 [FRP改造计划续](https://uknowsec.cn/posts/notes/FRP%E6%94%B9%E9%80%A0%E8%AE%A1%E5%88%92%E7%BB%AD.html)
@@ -30,7 +30,7 @@ remote_port = 10002
 plugin = socks5
 ```
 
-## 指定参数
+### 指定参数
 ```
 >frpc.exe -t 1.1.1.1 -p 2333
 Modify by Uknow
