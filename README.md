@@ -16,7 +16,7 @@ frpc
 ```
 [common]
 server_addr = test.com.w.cdngslb.com
-server_port = 80
+server_port = 443
 token = uknowsec
 protocol = wss
 #protocol = websocket
